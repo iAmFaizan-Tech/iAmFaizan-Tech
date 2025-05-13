@@ -5,7 +5,7 @@
 - 🔭 Currently working on backend services and API automation
 - 💻 Building tools with Django, FastAPI, Pytest, and Selenium
 - 🌐 Passionate about scalable APIs, test-driven development, and automation
-- 📫 Reach me: ravisharma.dev@gmail.com
+- 📫 Reach me: faizanaliusmanai@gmail.com
 
 #### 🔧 Technologies & Tools:
 Python | Django | FastAPI | Selenium | Pytest | Redis | MongoDB | Docker | Git | JIRA
