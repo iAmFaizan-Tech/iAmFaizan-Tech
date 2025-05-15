@@ -11,5 +11,5 @@
 Python | Django | FastAPI | Selenium | Pytest | Redis | MongoDB | Docker | Git | JIRA
 
 #### 📌 Featured Projects:
-- 🛠️ [5G RIC Backend + Automation](https://github.com/yourusername/5G-RIC-API-Automation)
-- 📊 [Resource Mapping Tool Automation](https://github.com/yourusername/RMT-Backend-Automation)
+- 🛠️ [5G RIC Backend + Automation](https://github.com/iAmFaizan-Tech/5G-RIC)
+- 📊 [Resource Mapping Tool Automation](https://github.com/iAmFaizan-Tech/Resource-Mapping-Tool)
