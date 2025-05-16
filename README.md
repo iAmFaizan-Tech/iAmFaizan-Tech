@@ -56,7 +56,7 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/faizanali-profile) *(Add your actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/faizan-ali-a99a75201) 
 - 📨 faizanaliusmanai@gmail.com
 
 ---
